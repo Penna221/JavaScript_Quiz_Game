@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Mikä on Japanin pääkaupunki?",
+    "options": ["Tokio", "Peking", "Soul"],
+    "correctAnswer": "Tokio"
+  },
+  {
+    "question": "Mikä ohjelmointikieli tunnetaan sen käytöstä verkkokehityksessä?",
+    "options": ["Java", "Python", "JavaScript"],
+    "correctAnswer": "JavaScript"
+  },
+  {
+    "question": "Kuka kirjoitti näytelmän 'Romeo ja Julia'?",
+    "options": ["William Shakespeare", "Jane Austen", "Charles Dickens"],
+    "correctAnswer": "William Shakespeare"
+  }
+]

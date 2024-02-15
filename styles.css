@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+h1 {
+    color: #c9ebff;
+}
+h3 {
+    color:#8ca4b3
+}
+label {
+    color: white;
+}
+legend {
+    color: white;
+}
+.wrong-answer {
+    
+    background-color: red;
+}
+#game {
+    background-color: blue;
+    width:80%;
+    margin:auto;
+    padding: 20px;
+    
+    opacity: 1;
+    transition: opacity 0.4s ease-in;
+}
+.card{
+    background-color: rgb(0, 33, 53);
+    text-align: center;
+    width: 50%;
+    margin:auto;
+}
+.card ul {
+    list-style-type: none;
+    margin: auto;
+    padding: 10px;
+}
+
+.option{
+    color:white;
+    background-color: rgba(0, 92, 167, 0.644);
+    border-style: solid;
+    border-radius: 30px;
+    border-bottom: none;
+    transition: 0.3s;
+    padding-top:20px;
+    padding-bottom:20px;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 30%;
+    justify-content: center;
+    cursor: pointer;
+}
+.option:hover{
+    max-width: 100%;
+    scale:1.1;
+    background-color: rgb(153, 142, 255);
+}
