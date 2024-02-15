@@ -18,6 +18,7 @@ const init = async function(){
 }
 const gotoStart = function (){
     console.log('Going back to start.');
+    stack = [];
     questionsData.forEach((qu,i)=>{
         stack.push(i);
     })
