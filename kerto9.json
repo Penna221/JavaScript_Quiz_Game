@@ -1,0 +1,52 @@
+[
+  {
+    "question": "1 x 9",
+    "options": ["7", "8", "9"],
+    "correctAnswer": "9"
+  },
+  {
+    "question": "2 x 9",
+    "options": ["16", "18", "20"],
+    "correctAnswer": "18"
+  },
+  {
+    "question": "3 x 9",
+    "options": ["24", "27", "30"],
+    "correctAnswer": "27"
+  },
+  {
+    "question": "4 x 9",
+    "options": ["32", "36", "40"],
+    "correctAnswer": "36"
+  },
+  {
+    "question": "5 x 9",
+    "options": ["40", "45", "50"],
+    "correctAnswer": "45"
+  },
+  {
+    "question": "6 x 9",
+    "options": ["48", "54", "60"],
+    "correctAnswer": "54"
+  },
+  {
+    "question": "7 x 9",
+    "options": ["56", "63", "70"],
+    "correctAnswer": "63"
+  },
+  {
+    "question": "8 x 9",
+    "options": ["64", "72", "80"],
+    "correctAnswer": "72"
+  },
+  {
+    "question": "9 x 9",
+    "options": ["70", "81", "90"],
+    "correctAnswer": "81"
+  },
+  {
+    "question": "10 x 9",
+    "options": ["80", "90", "100"],
+    "correctAnswer": "90"
+  }
+]
